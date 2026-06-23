@@ -1,8 +1,8 @@
 # Performance Marketing
 
-**Audit, test, and scale paid channels with rigorous, data-driven playbooks.** — built in-house by [Skill&nbsp;Me](https://skillme.dev).
+**For paid marketers: cut wasted spend and scale every channel to profitable CAC.** — built in-house by [Skill&nbsp;Me](https://skillme.dev).
 
-A practical toolkit for performance marketers who need to cut waste, improve conversion, and scale paid acquisition profitably. Covers the full paid marketing loop from channel auditing and creative testing through attribution, budget pacing, and audience strategy.
+Reach for this when paid spend is growing faster than profit and you need to find the leak before you scale. It runs the full acquisition loop as one discipline — audit channels for waste, sharpen audience targeting, test creative and landing pages with real statistical rigor, then pace and reallocate budget to the campaigns clearing your CAC target. The outcome is a ranked, dollar-quantified action list every cycle, not another dashboard to stare at.
 
 ⭐ **If this is useful, star the repo** — it's how we gauge what to build next.
 
