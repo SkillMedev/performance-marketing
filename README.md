@@ -9,7 +9,7 @@ Reach for this when paid spend is growing faster than profit and you need to fin
 ## Install
 
 - **From the catalog:** [skillme.dev/pack/performance-marketing](https://skillme.dev/pack/performance-marketing) — install the whole pack into Claude in one step.
-- **With the skills CLI:** `npx skills add aouellets/performance-marketing`
+- **With the skills CLI:** `npx skills add SkillMedev/performance-marketing`
 - **Manually:** copy any `skills/<slug>/SKILL.md` into your Claude skills directory.
 
 ## Skills in this pack
