@@ -1,16 +1,17 @@
 # Performance Marketing
 
-**For paid marketers: cut wasted spend and scale every channel to profitable CAC.** — built in-house by [Skill&nbsp;Me](https://skillme.dev).
+**For paid marketers: cut wasted spend and scale every channel to profitable CAC.** — built in-house by [Skill&nbsp;Me](https://skillme.dev/?utm_source=github&utm_medium=readme&utm_campaign=pack-performance-marketing).
 
 Reach for this when paid spend is growing faster than profit and you need to find the leak before you scale. It runs the full acquisition loop as one discipline - audit channels for waste, sharpen audience targeting, test creative and landing pages with real statistical rigor, then pace and reallocate budget to the campaigns clearing your CAC target. The outcome is a ranked, dollar-quantified action list every cycle, not another dashboard to stare at.
 
-⭐ **If this is useful, star the repo** — it's how we gauge what to build next.
-
 ## Install
 
-- **From the catalog:** [skillme.dev/pack/performance-marketing](https://skillme.dev/pack/performance-marketing) — install the whole pack into Claude in one step.
+- **Claude, ChatGPT, Codex, Cursor (connector):** [install the whole pack from skillme.dev](https://skillme.dev/pack/performance-marketing?utm_source=github&utm_medium=readme&utm_campaign=pack-performance-marketing) — one connection, then ask for any skill by name.
+- **As files for Codex, Cursor, or Claude Code:** `npx @skillme/cli add paid-acquisition-audit ad-creative-testing landing-page-cro marketing-attribution budget-pacing audience-targeting landing-page-copy ab-test-analyzer --target all`
 - **With the skills CLI:** `npx skills add SkillMedev/performance-marketing`
-- **Manually:** copy any `skills/<slug>/SKILL.md` into your Claude skills directory.
+- **Manually:** copy any `skills/<slug>/SKILL.md` into `.agents/skills/`, `.cursor/skills/`, or `.claude/skills/`.
+
+⭐ **If this is useful, star the repo** — it's how we gauge what to build next.
 
 ## Skills in this pack
 
@@ -26,4 +27,4 @@ Reach for this when paid spend is growing faster than profit and you need to fin
 ## License
 
 MIT — see [LICENSE](LICENSE). Skills are portable `SKILL.md` files; the canonical
-copies live in the [Skill&nbsp;Me catalog](https://skillme.dev).
+copies live in the [Skill&nbsp;Me catalog](https://skillme.dev/browse?utm_source=github&utm_medium=readme&utm_campaign=pack-performance-marketing).
